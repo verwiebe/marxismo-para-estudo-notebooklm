@@ -96,3 +96,24 @@ Com o suporte analítico do NotebookLM, foram mapeados e sintetizados os termos 
 *   **Burguesia:** A classe social detentora dos meios de produção, que compra a força de trabalho alheia para gerar capital.
 *   **Proletariado:** A classe social que não possui meios de produção e, para garantir sua subsistência, é obrigada a vender sua força de trabalho no mercado.
 *   **Práxis:** A união indissociável entre a teoria filosófica e a ação prática transformadora. Como resume a famosa tese de Marx: *"Os filósofos têm apenas interpretado o mundo de maneiras diferentes; a questão, porém, é transformá-lo"*.
+
+### 3. Conjunto de Prompts Reutilizáveis para Revisão e Estudo
+
+Copie e cole os comandos abaixo na barra de chat do seu NotebookLM (com as fontes deste repositório já carregadas) para conduzir revisões direcionadas:
+
+*   > *"Com base nos artigos da SciELO e nos textos originais carregados, crie um questionário de 5 perguntas de múltipla escolha sobre o conceito de Materialismo Histórico. Após eu responder, forneça o gabarito comentado justificando com trechos das fontes."*
+*   > *"Esclareça como o conceito de 'Alienação' abordado por Marx nos textos do jovem filósofo (como 'Sobre a Questão Judaica') se diferencia ou se complementa com a análise econômica mais madura presente em 'O Capital'."*
+*   > *"A partir dos materiais audiovisuais e textos anexados, elabore um resumo analítico explicando a relação entre a 'Infraestrutura' econômica e a 'Superestrutura' política/jurídica, utilizando um exemplo atual da sociedade contemporânea."*
+*   > *"Aja como um tutor acadêmico de economia política. Extraia das fontes os principais argumentos que Marx utiliza para criticar a lei da oferta e da procura como explicação definitiva para o valor de uma mercadoria."*
+
+---
+
+## 🎯 Conclusão e Próximos Passos
+Este repositório cumpre as diretrizes de aprendizagem ativa propostas pela **DIO**, integrando curadoria humana de alto nível acadêmico com o poder de síntese semântica da Inteligência Artificial Generativa. 
+
+Para expandir este ambiente:
+1. Adicione novas fontes em PDF na pasta de documentos para cobrir debates pós-marxistas.
+2. Refine os prompts reutilizáveis à medida que novas dúvidas teóricas surgirem.
+
+---
+*Projeto desenvolvido como desafio prático para o portfólio da Digital Innovation One (DIO).*
