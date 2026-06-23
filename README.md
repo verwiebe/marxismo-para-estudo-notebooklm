@@ -45,3 +45,25 @@ O projeto iniciou-se com uma seleção estratégica de **20 fontes base**, que p
 * [Vídeo Referência 08 — Leituras e Crises Contemporâneas](https://www.youtube.com/watch?v=3qRKTgCOElI)
 
 > **💡 Nota de Expansão:** Além das fontes iniciais acima, a ferramenta NotebookLM gerou insights e cruzamentos teóricos a partir de mais 19 documentos de suporte assimilados ao ecossistema de dados do projeto.
+
+## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+
+Uma parte fundamental do desenvolvimento deste projeto foi entender como dialogar eficientemente com o NotebookLM. Para evitar respostas superficiais ou generalistas, aplicou-se a engenharia de prompts, refinando as instruções para extrair análises teóricas profundas e semanticamente alinhadas com as fontes científicas indexadas.
+
+Abaixo está o registro de um teste de refinamento ("cicatriz") que demonstra o processo de ajuste na abordagem da IA:
+
+### ❌ Tentativa Inicial (Prompt Superficial)
+* **Prompt enviado:** 
+  > *"O que é mais-valia em Karl Marx?"*
+* **Resultado da IA:** A IA retornou uma definição dicionarizada e correta sobre o conceito básico de exploração do trabalho e lucro, mas falhou em detalhar os mecanismos econômicos internos e as divisões estruturais do conceito que constam em *O Capital*.
+
+###  Refinamento Estratégico (Prompt Avançado)
+* **Prompt enviado:** 
+  > *"Atuando como um cientista político e economista especialista na obra de Karl Marx, utilize estritamente o livro 'O Capital (Livro 1)' presente nas fontes para diferenciar de forma estruturada os conceitos de 'Mais-Valia Absoluta' e 'Mais-Valia Relativa'. Forneça um exemplo prático para cada uma baseado na dinâmica industrial e relacione com o conceito de jornada de trabalho."*
+* **Resultado da IA:** Com o direcionamento de papel (persona), delimitação de fonte de escopo e requisição de estrutura/exemplos, a IA gerou uma resposta acadêmica impecável. Ela explicou como a *Mais-Valia Absoluta* foca no prolongamento da jornada de trabalho, enquanto a *Mais-Valia Relativa* decorre do aumento da produtividade via tecnologia (reduzindo o tempo de trabalho necessário), exatamente como discutido nos artigos da SciELO e na obra original.
+
+---
+
+### 🧠 Lições Aprendidas (Best Practices)
+1. **Delimitação de Contexto:** Sempre ordene à IA que priorize as fontes carregadas em detrimento do seu conhecimento genérico de internet.
+2. **Especificidade Teórica:** Em temas densos como a teoria marxiana, solicitar recortes específicos (ex: infraestrutura vs. superestrutura, ou as vertentes da mais-valia) evita respostas vagas.
