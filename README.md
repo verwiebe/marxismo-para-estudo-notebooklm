@@ -1,2 +1,2 @@
-# miniguia-estudos-notebooklm
+# Guia de estudos notebooklm
 Repositório de estudo do NotebookLM
