@@ -4,6 +4,7 @@ Este repositório funciona como a porta de entrada oficial para o ambiente do No
 O objetivo deste projeto é centralizar e organizar uma base sólida de fontes confiáveis — incluindo textos originais, correspondências, análises históricas e comentários críticos — transformando-as em um assistente de estudo dinâmico e interativo através da inteligência artificial do NotebookLM.
 
 🔍 O que você encontrará nesta ferramenta:
+
 Síntese Biográfica: Dados históricos cronológicos que contextualizam a vida de Marx, suas parcerias intelectuais (como Friedrich Engels) e os eventos do século XIX que moldaram seu pensamento.
 
 Metodologia Filosófica: Uma quebra detalhada do materialismo histórico-dialético, explicando como Marx aplicou essa lente para analisar a evolução das sociedades humanas.
